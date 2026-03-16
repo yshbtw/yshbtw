@@ -43,13 +43,13 @@ IELTS **Band 7**
 ![NLP](https://img.shields.io/badge/NLP-purple?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)
 
-### ⚙️ Tools
+### ⚙️ Tools / Frameworks / Libraries
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
-![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
