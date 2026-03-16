@@ -23,7 +23,6 @@
 
 🌍 Gujarat, India
 
-IELTS **Band 7**
 
 ---
 
